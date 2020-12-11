@@ -7,5 +7,6 @@ package com.wenjt;
 public class Test {
     public static void main(String[] args) {
         System.out.println("test git 测试");
+        System.out.println("test git 修改提交");
     }
 }
